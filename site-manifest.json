@@ -1,7 +1,8 @@
 {
   "canonicalUrl": "https://about.kaoroubaba.com/",
   "designSourceSlug": "stripe",
-  "generatedAt": "2026-08-13T02:56:17.395Z",
+  "generatedAt": "2026-08-13T15:03:41.942Z",
+  "publicJsLoaderUrl": "https://kol-js.pages.dev/loader.js",
   "siteId": "site-kaoroubaba-com",
   "templateSlug": "personal-brand-gradient-finance",
   "templateVersion": "0.1.0"
